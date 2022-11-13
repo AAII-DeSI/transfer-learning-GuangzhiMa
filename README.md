@@ -1,5 +1,5 @@
 # MCIMO:Multi-class Classification with Fuzzy-feature Observations
-This is the official site for the paper "Multiclass Classification with Fuzzy-feature Observations: Theory and Algorithms"(https://ieeexplore.ieee.org/document/9807681). This work is done by 
+This is for the paper "Multiclass Classification with Fuzzy-feature Observations: Theory and Algorithms"(https://ieeexplore.ieee.org/document/9807681). This work is done by 
 
 - Guangzhi Ma (UTS), Guangzhi.Ma@student.uts.edu.au
 - Prof. Jie Lu (UTS), Jie.Lu@uts.edu.au
